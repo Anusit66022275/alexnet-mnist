@@ -16,4 +16,4 @@ pip install -r requirements.txt
 หลังจากดาวน์โหลดเสร็จ ให้นำไฟล์ไปวางในโฟลเดอร์นี้:
 alexnet_ai/models/alexnet_mnist.pth
 
-ถ้าจะรันคือ python main.py ครับ
+ถ้าจะรันคือ python alexnet_ai/main.py ครับ
